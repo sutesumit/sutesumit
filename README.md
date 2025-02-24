@@ -17,13 +17,13 @@ Despite these varied experiences, one **common thread** ties them all together:
 
 ## Projects I'm Working On
 
-### art.sumitsute.com
+#### art.sumitsute.com
 > A **static website** showcasing my artistic journey.  
 🔗 **[Live](https://art.sumitsute.com)** | 📂 **[Repo](https://github.com/sutesumit/jaybhim_affirma)**  
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  
 📌 **Roles:** End-to-end Developer | UI Designer | Writer  
 
-## Dramas of Discrimination
+#### Dramas of Discrimination
 > A **web application** exploring personal archives, inherited emotions, and political narratives.  
 🔗 **[Live](https://www.dod.sumitsute.com/)** | 📂 **[Repo](https://github.com/sutesumit/dodpage)**  
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  
