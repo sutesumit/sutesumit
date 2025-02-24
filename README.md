@@ -1,4 +1,4 @@
-# Hello, Sumit Sute here!
+# hellos, sumit sute here! 🌱
 
 **Web Developer | Interactive Digital Artist | Self-Taught**
 
