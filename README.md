@@ -2,7 +2,16 @@
 
 **Web Developer | Interactive Digital Artist | Self-Taught**
 
-I build **interactive digital art** at the intersection of **personal archives, inherited emotions, and the political**—informed by the feminist principle that *the personal is political*. 
+Before finding my rightful place in **web development** (and in my partner's heart! 💕), my path took me through diverse fields:  
+
+- **Mechanical Engineering** – *IIT Madras*  
+- **Editorial Journalism** – *Hindustan Times*  
+- **Documentary Photography** – *Maharashtra Government, Indian Institute of Human Settlements*  
+- **Communication Strategy** – *Various organizations*  
+- **Community Organizing** – *Ambedkar Reading Circle*  
+
+Despite these varied experiences, one **common thread** ties them all together:  
+✨ The **drive to create** things that enhance and complement life.  
 
 ---
 
