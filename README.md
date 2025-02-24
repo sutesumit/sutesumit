@@ -48,7 +48,7 @@ I build **interactive digital art** at the intersection of **personal archives, 
 
 ## 📬 Let's Connect!  
 
-💻 **[Portfolio](https://art.sumitsute.com)**  
+💻 **[Website](https://sumitsute.com)**  
 📧 sumitsute@alumni.iitm.ac.in  
 
 ---
