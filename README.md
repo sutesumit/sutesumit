@@ -1,20 +1,20 @@
-# 🌱 hellos. sumit sute here!  
+# Hello, Sumit Sute here!
 
-**Web Developer | Interactive Digital Artist | Self-Taught**  
+**Web Developer | Interactive Digital Artist | Self-Taught**
 
-I build **interactive digital art** at the intersection of **personal archives, inherited emotions, and the political**—informed by the feminist principle that *the personal is political*. Web technologies are more than just tools to me; they are also a **canvas** for artistic expression and self-reflection.  
+I build **interactive digital art** at the intersection of **personal archives, inherited emotions, and the political**—informed by the feminist principle that *the personal is political*. 
 
 ---
 
-## 🚀 Projects I'm Working On  
+## Projects I'm Working On
 
-### 🎨 [art.sumitsute.com](https://art.sumitsute.com)  
+### [art.sumitsute.com](#)
 > A **static website** showcasing my artistic journey.  
-🔗 **[Live](https://art.sumitsute.com)** | 📂 **[Repo](https://github.com/sutesumit/jaybhim_affirma)*  
+🔗 **[Live](https://art.sumitsute.com)** | 📂 **[Repo](https://github.com/sutesumit/jaybhim_affirma)**  
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  
 📌 **Roles:** End-to-end Developer | UI Designer | Writer  
 
-### 🎭 [Dramas of Discrimination](#)  
+### [Dramas of Discrimination](#)
 > A **web application** exploring personal archives, inherited emotions, and political narratives.  
 🔗 **[Live](https://www.dod.sumitsute.com/)** | 📂 **[Repo](https://github.com/sutesumit/dodpage)**  
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  
@@ -22,7 +22,7 @@ I build **interactive digital art** at the intersection of **personal archives, 
 
 ---
 
-## 🛠 Tech & Tools  
+## Tech & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
@@ -39,18 +39,18 @@ I build **interactive digital art** at the intersection of **personal archives, 
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
 
 ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sutesumit&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutesumit&layout=compact&theme=radical)  
 
 ---
 
-## 📬 Let's Connect!  
+## Let's Connect!
 
 💻 **[Website](https://sumitsute.com)**  
 📧 sumitsute@alumni.iitm.ac.in  
 
 ---
 
-🔧 *Currently exploring:* `Backend Technologies`, `Web Animation`, `3D on the Web`, `Creative Coding`  
+🔧 *Currently exploring:* `Backend Technologies`, `Web Animation`, `3D on the Web`, `Creative Coding`
