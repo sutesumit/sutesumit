@@ -19,7 +19,7 @@
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  | 🧢 **Roles:** End-to-end Developer | UI Designer | Writer  
 
 #### art.sumitsute.com
-> A **static website** showcasing my artistic journey.  
+>  A **web application** developed as a interactive portfolio and showcase for the work my lens-based visual art works.
 🔗 **[Live](https://art.sumitsute.com)** | 📂 **[Repo](https://github.com/sutesumit/jaybhim_affirma)**  
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  | 🧢 **Roles:** End-to-end Developer | UI Designer | Writer  
 
