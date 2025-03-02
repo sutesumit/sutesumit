@@ -13,14 +13,14 @@
 
 ## Projects I'm Working On
 
+#### Dramas of Discrimination
+> A **web application** for Dramas of Discrimination workshops, enabling communities and students to foster inclusive spaces through dialogue, reflection, and action. 
+🔗 **[Live](https://www.dod.sumitsute.com/)** | 📂 **[Repo](https://github.com/sutesumit/dodpage)**  
+🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  | 🧢 **Roles:** End-to-end Developer | UI Designer | Writer  
+
 #### art.sumitsute.com
 > A **static website** showcasing my artistic journey.  
 🔗 **[Live](https://art.sumitsute.com)** | 📂 **[Repo](https://github.com/sutesumit/jaybhim_affirma)**  
-🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  | 🧢 **Roles:** End-to-end Developer | UI Designer | Writer  
-
-#### Dramas of Discrimination
-> A **web application** exploring personal archives, inherited emotions, and political narratives.  
-🔗 **[Live](https://www.dod.sumitsute.com/)** | 📂 **[Repo](https://github.com/sutesumit/dodpage)**  
 🛠 **Tech Stack:** `Next.js` `Tailwind` `Motion` `Aceternity UI`  | 🧢 **Roles:** End-to-end Developer | UI Designer | Writer  
 
 ---
